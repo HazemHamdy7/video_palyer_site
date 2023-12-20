@@ -13,8 +13,8 @@ pipenv install djangorestframework
 
 
 to know lib in django ==== " freeze >requirments.txt " 
-
 python manage.py runserver
+
 python manage.py makemigrations
 python manage.py migrate
 python manage.py sqlmigrate store 0003
